@@ -1,5 +1,5 @@
 specVersion: 0.0.2
-description: Gravatar for Ethereum, Take 2
+description: Another Subgraph
 repository: https://github.com/mortelli/another-subgraph
 schema:
   file: ./schema.graphql
